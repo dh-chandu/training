@@ -1,0 +1,4 @@
+clear
+cat hello_120.c
+cat $0
+echo $1 -- this is argument 1 passwed
